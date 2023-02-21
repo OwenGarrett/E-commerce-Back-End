@@ -8,7 +8,7 @@ router.get('/', async (req, res) => {
   // be sure to include its associated Products
   try {
     
-  } catch (error) {
+  } catch (error) { ended here at 3:07pm 2/21
     
   }
 
